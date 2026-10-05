@@ -1,0 +1,9 @@
+--- Reporte de Notas ---
+Nota 1: 80.0
+Nota 2: 90.0
+
+-------------------
+cantidad de notas:2
+promedio: 85.000000
+nota mas alta: 90.0
+nota mas baja: 80.0

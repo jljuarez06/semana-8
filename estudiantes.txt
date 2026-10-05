@@ -1,0 +1,4 @@
+nombres: Jorge Luis
+apellidos: Juarez Lopez
+edad: 17
+carrera: Ingeniero En Sistemas
